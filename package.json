@@ -1,0 +1,10 @@
+{
+  "name": "bf6-slot-machine-slaughter",
+  "version": "1.0.0",
+  "description": "Battlefield 6 Portal SDK mod — kill bots, roll random stackable upgrades, survive 5 minutes",
+  "dependencies": {},
+  "devDependencies": {
+    "@types/node": "20.6.0",
+    "typescript": "^5.3.3"
+  }
+}

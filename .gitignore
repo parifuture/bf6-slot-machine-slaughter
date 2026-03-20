@@ -1,0 +1,20 @@
+# SDK binaries and large assets — do not commit
+python/
+Godot_v*.exe
+GodotProject/static/
+GodotProject/objects/
+GodotProject/scripts/
+GodotProject/raw/
+GodotProject/.godot/
+GodotProject/levels/
+FbExportData/thumbnails/
+FbExportData/levels/
+FbExportData/
+code/gdplugins/
+node_modules/
+dist/
+
+# Keep
+!GodotProject/mods/
+!code/modlib/
+!code/types/
